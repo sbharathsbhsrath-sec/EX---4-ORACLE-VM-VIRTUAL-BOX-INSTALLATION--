@@ -1,3 +1,11 @@
+<img width="1280" height="800" alt="Screenshot From 2026-10-27 09-19-07" src="https://github.com/user-attachments/assets/801269a6-02d2-49e1-811e-16381fe9d8b6" />
+<img width="1280" height="800" alt="Screenshot From 2026-10-27 09-20-02" src="https://github.com/user-attachments/assets/f3eca038-6f7f-46e1-956a-2308d5ffd55e" />
+<img width="1280" height="800" alt="Screenshot From 2026-10-27 09-23-08" src="https://github.com/user-attachments/assets/1c6ef070-f113-4912-8e2d-538fd55787bd" />
+<img width="1280" height="800" alt="Screenshot From 2026-10-27 09-24-44" src="https://github.com/user-attachments/assets/d6180219-dffb-467c-853d-2a6ae9c51071" />
+<img width="1280" height="800" alt="Screenshot From 2026-10-27 16-11-35" src="https://github.com/user-attachments/assets/29457b33-f027-488a-aafe-ac0a47328c8b" />
+<img width="1280" height="800" alt="Screenshot From 2026-10-27 09-24-44" src="https://github.com/user-attachments/assets/5eb228a5-f1eb-4749-8344-f9468382ee87" />
+<img width="1280" height="800" alt="Screenshot From 2026-10-27 09-27-14" src="https://github.com/user-attachments/assets/a2bbb2a4-ea10-4cb3-bb11-5667906c66a0" />
+<img width="1280" height="800" alt="Screenshot From 2026-10-27 16-10-34" src="https://github.com/user-attachments/assets/fad4f404-6c55-4acb-b704-b59b7212b981" />
 ##  Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
 
 ## REG NUMBER: 212225230031
